@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ...
+- 📫 How to reach me ... kunalprajapat530@gmail.com
 
 <!---
 kannu2001/kannu2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
