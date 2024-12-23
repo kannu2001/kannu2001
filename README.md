@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kannu2001
-- 👀 I’m interested in full stack 
+- 👀 I’m interested in Python-Django 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ... kunalprajapat530@gmail.com
